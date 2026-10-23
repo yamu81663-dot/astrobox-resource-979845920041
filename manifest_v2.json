@@ -1,0 +1,37 @@
+{
+  "item": {
+    "id": "979845920041",
+    "restype": "watchface",
+    "name": "双行数字Pro",
+    "description": "双行数字Pro——全新的仿apple watch双行数字表盘，仅275KB大小，自带调色盘，可以切换各种颜色，无需切换样式，一键换色。\n*三击表盘进入设置",
+    "preview": [
+      "media/无标题19_20261023232340.png",
+      "media/表盘界面.png",
+      "media/设置界面.png",
+      "media/时钟颜色_分钟颜色_背景颜色设置界面.png",
+      "media/时钟样式_分钟样式设置页面（未选中）.png"
+    ],
+    "icon": "media/无标题14_20261023233405.png",
+    "cover": "media/无标题18_20261023233613.png",
+    "author": [
+      {
+        "name": "bandbbs_2052034",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "0.0.0",
+      "file_name": "downloads/ColorFace.bin",
+      "versionCode": 0
+    },
+    "xmb10p": {
+      "version": "0.0.0",
+      "file_name": "downloads/ColorFace.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {}
+}
